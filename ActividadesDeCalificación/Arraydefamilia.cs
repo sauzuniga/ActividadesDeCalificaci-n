@@ -21,7 +21,7 @@ namespace ActividadesDeCalificación
             {
                 Console.WriteLine(" Nombres de los integrantes {0}: {1} ", i, miembros[i]);
             }
-            Console.ReadKey();y
+            Console.ReadKey();
         }
     }
 }
