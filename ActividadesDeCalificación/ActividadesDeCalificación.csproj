@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arraydefamilia.cs" />
+    <Compile Include="Diccionario.cs" />
     <Compile Include="Problemasconarreglos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
